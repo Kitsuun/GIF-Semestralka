@@ -1,4 +1,4 @@
-﻿latitude,price,bathrooms,Součet hodnot: accommodates,Součet hodnot: beds,Součet hodnot: host_response_rate,Součet hodnot: bedrooms,longitude
+﻿latitude,price,bathrooms,accommodates,beds,host_response_rate,bedrooms,longitude
 '-22.960348217354245,"$4,201.00",8.0,160,1,1,7,'-43.26912502711169
 '-22.801200221077508,"$1,195.00",5.5,16,7,0,4,'-43.203338111162985
 '-22.811788032557903,$699.00,2.0,16,1,0,0,'-43.29930822412674
